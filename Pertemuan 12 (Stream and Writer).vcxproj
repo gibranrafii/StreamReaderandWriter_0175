@@ -24,6 +24,7 @@
     <ProjectGuid>{640367e0-c74e-4c41-825c-25fcfee1b82f}</ProjectGuid>
     <RootNamespace>Pertemuan12StreamandWriter</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Pertemuan 12.1 (Stream and Writer)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -127,7 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Pertemuan 12 (Stream and Writer).cpp" />
+    <ClCompile Include="Pertemuan 12.1 %28Stream and Writer%29.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

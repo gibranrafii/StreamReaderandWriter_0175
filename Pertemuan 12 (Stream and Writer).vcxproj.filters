@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Pertemuan 12 (Stream and Writer).cpp">
+    <ClCompile Include="Pertemuan 12.1 %28Stream and Writer%29.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
