@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pertemuan 12.1 (Stream and Writer)", "Pertemuan 12 (Stream and Writer).vcxproj", "{640367E0-C74E-4C41-825C-25FCFEE1B82F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pertemuan 12.2 (ioFilewithPath)", "Pertemuan 12.2 (ioFilewithPath)\Pertemuan 12.2 (ioFilewithPath).vcxproj", "{76AAC03D-D18D-48D6-8124-B68705668F3F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{640367E0-C74E-4C41-825C-25FCFEE1B82F}.Release|x64.Build.0 = Release|x64
 		{640367E0-C74E-4C41-825C-25FCFEE1B82F}.Release|x86.ActiveCfg = Release|Win32
 		{640367E0-C74E-4C41-825C-25FCFEE1B82F}.Release|x86.Build.0 = Release|Win32
+		{76AAC03D-D18D-48D6-8124-B68705668F3F}.Debug|x64.ActiveCfg = Debug|x64
+		{76AAC03D-D18D-48D6-8124-B68705668F3F}.Debug|x64.Build.0 = Debug|x64
+		{76AAC03D-D18D-48D6-8124-B68705668F3F}.Debug|x86.ActiveCfg = Debug|Win32
+		{76AAC03D-D18D-48D6-8124-B68705668F3F}.Debug|x86.Build.0 = Debug|Win32
+		{76AAC03D-D18D-48D6-8124-B68705668F3F}.Release|x64.ActiveCfg = Release|x64
+		{76AAC03D-D18D-48D6-8124-B68705668F3F}.Release|x64.Build.0 = Release|x64
+		{76AAC03D-D18D-48D6-8124-B68705668F3F}.Release|x86.ActiveCfg = Release|Win32
+		{76AAC03D-D18D-48D6-8124-B68705668F3F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
