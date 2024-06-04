@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pertemuan 12.1 (Stream and 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pertemuan 12.2 (ioFilewithPath)", "Pertemuan 12.2 (ioFilewithPath)\Pertemuan 12.2 (ioFilewithPath).vcxproj", "{76AAC03D-D18D-48D6-8124-B68705668F3F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pertemuan 12.3 (Manual Execption)", "Pertemuan 12.3 (Manual Execption)\Pertemuan 12.3 (Manual Execption).vcxproj", "{94D89A84-54E4-43F3-AA4D-1F62FA23AF8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{76AAC03D-D18D-48D6-8124-B68705668F3F}.Release|x64.Build.0 = Release|x64
 		{76AAC03D-D18D-48D6-8124-B68705668F3F}.Release|x86.ActiveCfg = Release|Win32
 		{76AAC03D-D18D-48D6-8124-B68705668F3F}.Release|x86.Build.0 = Release|Win32
+		{94D89A84-54E4-43F3-AA4D-1F62FA23AF8E}.Debug|x64.ActiveCfg = Debug|x64
+		{94D89A84-54E4-43F3-AA4D-1F62FA23AF8E}.Debug|x64.Build.0 = Debug|x64
+		{94D89A84-54E4-43F3-AA4D-1F62FA23AF8E}.Debug|x86.ActiveCfg = Debug|Win32
+		{94D89A84-54E4-43F3-AA4D-1F62FA23AF8E}.Debug|x86.Build.0 = Debug|Win32
+		{94D89A84-54E4-43F3-AA4D-1F62FA23AF8E}.Release|x64.ActiveCfg = Release|x64
+		{94D89A84-54E4-43F3-AA4D-1F62FA23AF8E}.Release|x64.Build.0 = Release|x64
+		{94D89A84-54E4-43F3-AA4D-1F62FA23AF8E}.Release|x86.ActiveCfg = Release|Win32
+		{94D89A84-54E4-43F3-AA4D-1F62FA23AF8E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
